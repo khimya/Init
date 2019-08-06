@@ -1,0 +1,3 @@
+#DNS is made to translate ip adresses into domaine names to help the 
+#user to easly idenetify the websites
+/etc/resolv.conf
